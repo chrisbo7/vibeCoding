@@ -25,3 +25,15 @@ Notes
 ```cmd
 pytest -q
 ```
+
+
+
+
+----------------------GIT COMMIT---------------
+
+https://github.com/chrisbo7/vibeCoding
+
+1. git pull
+2. git add .
+3. git commit -m "justifi"
+4. git push
